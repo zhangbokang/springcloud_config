@@ -1,4 +1,4 @@
-env: dev
+env: test
 cuser:
-  username: abc1
-  password: abc1
+  username: abc1x
+  password: abc1x
